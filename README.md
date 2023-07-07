@@ -1,14 +1,13 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BME82M131_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMK22M131_V1.0.png" width="320" height="240"> 
 </div> 
 
-
-BME82M131
+BMK22M131
 ===========================================================
 
-The Best Modules BME82M131 is an ambient light detection module, which uses the I2C communication method. This document describes the Arduino Lib function of the BME82M131 and how to install the Arduino Lib. The example demonstrates how to obtain the ambient light intensity.
+The BMK22M131 is a Button-LED module from Best Modules, which uses the I2C communication method. This document provides the description of the BMK22M131 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the button recognition, LED brightness control and other functions.
 
-This library can be installed via the Arduino Library manager. Search for **BME82M131**. 
+This library can be installed via the Arduino Library manager. Search for **BMK22M131**. 
 
 Repository Contents
 -------------------
@@ -21,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BME82M131 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bme82m131.html#tab-product2 )** - Arduino Library Description.
+* **[BMK22M131 Arduino Library V1.0.1 Description v100](https://www.bestmodulescorp.com/bmk22m131.html#tab-product2)** - Arduino Library Description.
 
 Version History  
 -------------------
